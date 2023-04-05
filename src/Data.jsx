@@ -3,10 +3,10 @@ import Project2 from './assets/project2.png';
 import Project3 from './assets/project3.png';
 import Project4 from './assets/project4.jpg';
 
-import Testimonial1 from './assets/testimonial1.jpg';
+import Testimonial1 from './assets/testimonial1.jpeg';
 import Testimonial2 from './assets/testimonial2.jpg';
 import Testimonial3 from './assets/testimonial3.jpg';
-import Testimonial4 from './assets/testimonial4.jpg';
+import Testimonial4 from './assets/testimonial4.jpeg';
 import Testimonial5 from './assets/testimonial5.jpg';
 
 export const links = [
@@ -371,11 +371,11 @@ export const testimonials = [
   {
     id: 1,
     img: Testimonial1,
-    name: 'Ozy Huli, Masterschool',
+    name: 'Shammah Chidoka Peters',
     author: 'Student Success Manager at Masterschool',
     description:
-      '“Hi Nathaniel,   As you might see in the slack community channels, we aim to help students build a strong network from the start. When transitioning to a new career it can sometimes be challenging to build a new network, since it may take some time and energy. This is why we ask a few students to help us in building a strong sense of community before the start of the program..."',
-    href: 'https://www.linkedin.com/in/sophie-riding/',
+      'I have not seen anyone that commits to the growth of his mentees like Mr Noel does. Mr Noel wants to be involved in every step of your growth journey. He insists to be involved. His passion for emerging technologies and the way he leads young techies is exemplary on every level.',
+    href: 'https://www.linkedin.com/in/shammah-chidoka-peters-a95643220/',
   },
   {
     id: 2,
@@ -383,16 +383,25 @@ export const testimonials = [
     name: 'Sophie Riding',
     author: '',
     description:
-      '"Nathaniel Obafemi has a deep understanding of the subject matter and is able to explain complex concepts in a clear and easily understandable manner. He is highly organized and always prepared for class, ensuring that the material is presented logically and logically. His enthusiasm for the subject (data analysis) is contagious and he is able to engage and inspire the students. In addition to his teaching abilities, He is also an excellent researcher....."',
+      'During his time as a student in the Masterschool Data Analytics program, Noel demonstrated leaderships skills when mentoring his fellow peers. He provided support to his group throughout the rigorous program and was always provided constructive insights....."',
     href: 'https://www.linkedin.com/in/sophie-riding/',
   },
   {
     id: 3,
     img: Testimonial3,
-    name: 'Oluseun Sanuade',
-    author: 'Phd Student ',
+    name: 'Oluwole Dada',
+    author: 'Drilling Engineer ',
     description:
-      'Nathaniel Obafemi´s qualifications and previous educational background in Environmental science with a focus on data analysis make him a strong candidate for further study in the field of climate change and GIS.”',
-    href: 'https://www.linkedin.com/in/oluseun-sanuade-9406b730/',
+      'I highly recommend Noel as a technical leader and seasoned professional. He demonstrated exceptional leadership skills while working with our team of six engineers and coordinating with various G&G service providers during the exploration and development of several multimillion dollar offshore wells in the Niger Delta region......”',
+    href: 'https://www.linkedin.com/in/woledada1/',
+  },
+  {
+    id: 4,
+    img: Testimonial4,
+    name: 'Ogbo Awoke Ogbo',
+    author: 'Business Owner Coach ',
+    description:
+      'I have known Noel for over 20 years. Our paths crossed when we both worked for Chevron corporation. Noel’s passion for growth has put him on the path of continuous learning.His brilliance came to bare when he founded one of the most impactful  career mentoring programmes,  which has enabled many young African professionals to grow.',
+    href: 'https://www.linkedin.com/in/ogboawokeogbo/',
   },
 ];
