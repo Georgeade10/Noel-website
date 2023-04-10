@@ -74,7 +74,11 @@ const Home = () => {
               <FaLinkedinIn />
             </a>
 
-            <a href='' target='_blank' className='home__social-link'>
+            <a
+              href='https://github.com/de-issachars'
+              target='_blank'
+              className='home__social-link'
+            >
               <FaGithubAlt />
             </a>
           </div>

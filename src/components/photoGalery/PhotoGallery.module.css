@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  padding: 0 2rem;
+}
+
+.imageGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  max-width: 80vw;
+  margin: auto;
+  position: relative;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  transition: all 0.5s ease-in-out;
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .container {
+    height: auto;
+  }
+
+  .imageGrid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 100%;
+  }
+}

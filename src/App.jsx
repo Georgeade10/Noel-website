@@ -8,12 +8,14 @@ import Resume from './components/resume/Resume';
 import Testimonials from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
+import PhotoGallery from './components/photoGalery/PhotoGalery';
 
 function App() {
   return (
     <main className='main'>
       <Header />
       <Home />
+      <PhotoGallery />
       <Portfolio />
       <Skills />
       <Resume />

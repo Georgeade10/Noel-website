@@ -276,7 +276,7 @@ export const projects = [
     href: 'https://docs.google.com/presentation/d/12H6bKadfaV8Z5h0VoAtEmRPkht-Ym_D7fJj09VT3QFI/edit#slide=id.g1435c20e036_0_54',
   },
   {
-    id: 10,
+    id: 11,
     img: Project4,
     category: 'Oil and Gas',
     title: 'Basic python for Geosciences',
@@ -322,7 +322,7 @@ export const cv = [
     category: 'education',
   },
   {
-    id: 4,
+    id: 5,
     title: ' Lead Consultant',
     subtitle: 'Issachar Concepts International, Houston Texas',
     date: '2021 till present',
@@ -331,7 +331,7 @@ export const cv = [
     category: 'experience',
   },
   {
-    id: 4,
+    id: 6,
     title: 'Consultant',
     subtitle: 'Chevron Corporation',
     date: '2001 - 2021',
@@ -340,7 +340,7 @@ export const cv = [
     category: 'experience',
   },
   {
-    id: 5,
+    id: 7,
     title: 'Consultant',
     subtitle: 'Stress & Wellbore Stability Modeler',
     date: '2019 - 2021',
@@ -349,7 +349,7 @@ export const cv = [
     category: 'experience',
   },
   {
-    id: 6,
+    id: 8,
     title: 'Consultant',
     subtitle: 'Offshore/Deepwater Wellsite Geologist Lead',
     date: '2013 - 2019',
@@ -358,7 +358,7 @@ export const cv = [
     category: 'experience',
   },
   {
-    id: 6,
+    id: 9,
     title: 'Consultant',
     subtitle: 'Wellsite Geologist/Log Analyst (Consultant), 08/2001 - 09/2013',
     date: '2013 - 2019',

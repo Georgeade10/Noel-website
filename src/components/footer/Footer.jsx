@@ -7,7 +7,11 @@ const Footer = () => {
     <footer className='footer'>
       <div className='footer__container container grid'>
         <div className='footer__socials'>
-          <a href='' target='_blank' className='footer__social-link'>
+          <a
+            href='https://github.com/de-issachars'
+            target='_blank'
+            className='footer__social-link'
+          >
             <FaGithubAlt />
           </a>
 

@@ -83,7 +83,11 @@ const Header = () => {
             </ul>
 
             <div className='header__socials'>
-              <a href='' target='_blank' className='header__social-link'>
+              <a
+                href='https://github.com/de-issachars'
+                target='_blank'
+                className='header__social-link'
+              >
                 <FaGithubAlt />
               </a>
 
