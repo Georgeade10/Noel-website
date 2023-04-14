@@ -395,7 +395,7 @@ export const testimonials = [
   },
   {
     id: 3,
-    img: Testimonial33,
+    img: Testimonial3,
     name: 'Oluwole Dada',
     author: 'Drilling Engineer ',
     description:
