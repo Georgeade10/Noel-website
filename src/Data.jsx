@@ -5,7 +5,7 @@ import Project4 from './assets/project4.jpg';
 
 import Testimonial1 from './assets/testimonial1.jpeg';
 import Testimonial2 from './assets/testimonial2.jpg';
-import Testimonial3 from './assets/testimonial3.jpg';
+import Testimonial3 from './assets/testimonial33.jpg';
 import Testimonial4 from './assets/testimonial4.jpeg';
 import Testimonial5 from './assets/testimonial5.jpg';
 
@@ -379,7 +379,7 @@ export const testimonials = [
     id: 1,
     img: Testimonial1,
     name: 'Shammah Chidoka Peters',
-    author: 'Student Success Manager at Masterschool',
+    author: 'Geoscience Major',
     description:
       'I have not seen anyone that commits to the growth of his mentees like Mr Noel does. Mr Noel wants to be involved in every step of your growth journey. He insists to be involved. His passion for emerging technologies and the way he leads young techies is exemplary on every level.',
     href: 'https://www.linkedin.com/in/shammah-chidoka-peters-a95643220/',
@@ -395,7 +395,7 @@ export const testimonials = [
   },
   {
     id: 3,
-    img: Testimonial3,
+    img: Testimonial33,
     name: 'Oluwole Dada',
     author: 'Drilling Engineer ',
     description:
