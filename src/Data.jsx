@@ -132,7 +132,7 @@ export const skills = [
     name: ' Project Management   ',
     percentage: 70,
     description:
-      'Cleaning and preparing data for analysis is a necessary step in the data analysis process, and requires skills such as data wrangling and data normalization',
+      'I have a proven track record of managing complex projects from start to finish, ensuring they are completed on time, within budget, and to the satisfaction of all stakeholders. I have experience using various project management methodologies, including Agile, Waterfall, and Scrum.',
   },
 
   {
@@ -146,30 +146,30 @@ export const skills = [
   {
     id: 7,
     name: 'Digital Transformation',
-    percentage: 60,
+    percentage: 90,
     description:
-      'Understanding data warehousing concepts and working with tools such as ETL (Extract, Transform, Load) is important for managing and processing large datasets',
+      "As a consultant, I specialize in helping businesses achieve digital transformation, agile transformation, product development, and change management. With my expertise, I can guide your organization throught the process of leveraging technology to streamline operations, increase efficiency, and improve customer experiences while also helping you manage change effectively. Whether you are looking to adopt agile methodologies to improve your development processes, or you want to overhaul your entire businesses model to embrace digital transformation, I can provide the strategic guidance and technical support you need to succeed. My services are tailored to meet the unique needs and goals of each success. With my help, your business can become more agile, more customer-centric, and better positioned to compete in today's rapidly evolving market while effectively managing any changes that come your way. ",
   },
   {
     id: 8,
     name: 'Business Intelligence ',
     percentage: 80,
     description:
-      'Great Understanding of design principles. Familiarity with Photoshop interface and tools.Ability to create wireframes and mockups',
+      'Using SQL queries and Tableau, I can provide answers to business problems and create visualizations to help you take actionable insights from your business data sets.',
   },
   {
     id: 6,
     name: 'Oil and Gas Consultancy',
     percentage: 60,
     description:
-      'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
+    "With over 20 years of experience in Oil and Gas, I can readily provide domain expertise on Log Quality Assurance (Mudlog +MWD +Wireline), Data aggregation and Normalization (Remove Silos), Data Integration, Data Security, Subsurface data analytics.  ",
   },
   {
     id: 9,
     name: 'Manpower Development and training',
     percentage: 60,
     description:
-      'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
+      'I have curated a couple of in person Training courses that showcase the application of Data Science and Machine learning in the Oil and Gas industry.',
   },
   {
     id: 10,
@@ -185,6 +185,13 @@ export const skills = [
     description:
       'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
   },
+  {
+    id: 12,
+    name: 'Model Development',
+    percentage: 70,
+    description:
+      'I am skilled in creating and implementing various models, including financial models, statistical models, and predictive models. I use a data-driven approach to modeling and leverage advanced techniques such as machine learning and artificial intelligence to create accurate and reliable models.',
+  }
 ];
 
 export const projects = [
@@ -334,7 +341,7 @@ export const cv = [
     id: 6,
     title: 'Consultant',
     subtitle: 'Chevron Corporation',
-    date: '2001 - 2021',
+    date: '08/2001 - 09/2021',
     description:
       ' Domain Expert and Key Participant in Shale Picking Automation using Machine Learning.',
     category: 'experience',

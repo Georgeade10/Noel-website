@@ -52,17 +52,10 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-            Good Day, My name is Noel-I am the Lead Consultant and Founder of
-            Issachar concepts Incorporated. I just moved to the U.S and have
-            fully incorporated my business in the United States. Am available
-            for any B2B Staff Augmentation projects. <br></br> <br></br>With
-            over 20 years of experience in leading engineering and technical
-            teams. I and my team provide data-driven insights that help clients
-            make better decisions, improve operational efficiency, and achieve
-            their business goals. My team of experts are able to cut down
-            analysis time and turn insights into action . I look forward to
-            helping you achieve your business goals and objectives via staff
-            augmentation.
+            Good Day, My name is Noel-I am the Lead Consultant and Founder of Issachar concepts Incorporated. Am available for any B2B Staff Augmentation projects.
+            With over 15 years of experience in leading engineering and technical teams. I and my team provide data-driven insights that help clients make better decisions, improve operational efficiency, and achieve their business goals. 
+            My team of experts are able to cut down analysis time and turn insights into action. I look forward to helping you achieve your business goals and objectives via staff augmentation.
+
           </p>
 
           <div className='home__socials'>
