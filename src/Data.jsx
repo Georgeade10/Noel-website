@@ -235,19 +235,19 @@ export const projects = [
   {
     id: 5,
     img: Project4,
-    category: 'Oil and Gas',
-    title: 'Prediction of P-Sonic Log using Machine Learning',
+    category: 'Publication',
+    title: 'Formation Related Drilling Difficulty and Possible Ways to Improve Drilling Performance – Deepwater-02 Well Case Study',
     description:
-      'This project involved extracting bank and market cap data from two JSON files, bank_market_cap_1.json and bank_market_cap_2.json. The data was then transformed using exchange rate data from exchange_rates.csv, and loaded into a separate CSV file..',
-    href: 'https://drive.google.com/drive/folders/1cA2kqOH6rLH3b5aolViPDgMfVL0u3kOZ',
+      'This paper emphasizes the importance of proactively identifying and characterizing difficult-to-drill formations in order to select appropriate drilling practices and equipment to avoid downtime, increased costs, and failure to achieve geological targets, as seen in the Deep water-02 well, and recommends identifying such formations in offset wells to improve future drilling practices...',
+    href: 'https://nape.org.ng/wp-content/uploads/2020/09/18-27.-Formation-Related-Drilling-Difficulty.pdf',
   },
   {
     id: 6,
     img: Project4,
-    category: 'Oil and Gas',
-    title: 'Seismic face prediction using CNN',
-    description: '',
-    href: 'https://drive.google.com/drive/folders/1Ss_95HzPXn_dSIEOHw_QBZDlUbkgJXvB',
+    category: 'Publication',
+    title: 'Coring Unconsolidated Formations under Challenging Drilling Conditions – A Case Study, Swamp- Niger Delta.',
+    description: 'This paper emphasizes the importance of conventional coring in reservoir management and optimizing oil and gas production, highlighting the challenges encountered in coring a poorly consolidated sandstone reservoir and the innovative techniques deployed to mitigate these challenges, including the use of gyro survey while drilling, anti-collision analysis, well-designed drilling fluid, and special coring bottom hole assembly, resulting in a high-quality recovery factor of over 93 percent.',
+    href: 'https://www.researchgate.net/publication/328166990_Coring_Unconsolidated_Formations_under_Challenging_Drilling_Conditions_-_A_Case_Study_Swamp-_Niger_Delta',
   },
   {
     id: 7,
