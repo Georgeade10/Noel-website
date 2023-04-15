@@ -258,22 +258,6 @@ export const projects = [
     href: 'https://drive.google.com/drive/folders/1N8GGHrHq47xB6K0MXBpXk3-kpEBtgdLF',
   },
   {
-    id: 8,
-    img: Project4,
-    category: 'Oil and Gas',
-    title: 'Fault Identification',
-    description: '',
-    href: 'https://drive.google.com/drive/folders/1N8GGHrHq47xB6K0MXBpXk3-kpEBtgdLF',
-  },
-  {
-    id: 9,
-    img: Project4,
-    category: 'Oil and Gas',
-    title: 'Fault Identification',
-    description: '',
-    href: 'https://drive.google.com/drive/folders/1N8GGHrHq47xB6K0MXBpXk3-kpEBtgdLF',
-  },
-  {
     id: 10,
     img: Project4,
     category: 'Oil and Gas',
