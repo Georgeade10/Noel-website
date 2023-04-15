@@ -179,13 +179,6 @@ export const skills = [
       'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
   },
   {
-    id: 11,
-    name: 'Agile Transformation',
-    percentage: 60,
-    description:
-      'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
-  },
-  {
     id: 12,
     name: 'Model Development',
     percentage: 70,
@@ -336,7 +329,7 @@ export const cv = [
     subtitle: 'Chevron Corporation',
     date: '08/2001 - 09/2021',
     description:
-      ' *Stress &amp; Wellbore Stability Modeler, 09/2019 - 09/2021, Offshore/Deepwater Wellsite Geologist Lead, 10/2013 - 09/2019,  Wellsite Geologist/Log Analyst (Consultant), 08/2001 - 09/2013 ',
+      ' *Stress &amp; Wellbore Stability Modeler, Offshore/Deepwater Wellsite Geologist Lead,   Wellsite Geologist/Log Analyst. ',
       
     category: 'experience',
   },
