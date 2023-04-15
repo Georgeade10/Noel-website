@@ -278,6 +278,15 @@ export const projects = [
 ];
 
 export const cv = [
+  
+  {
+    id: 1,
+    title: 'Masters Data Anlysis, ',
+    subtitle: 'Masterschool New York, USA',
+    date: '2022',
+    description: 'I have acquired a diverse range of skills and techniques that equip me with the ability to utilize data for informed decision-making and problem-solving, along with practical experience in utilizing data analysis software including R, Python, and SQL to manipulate and analyze large datasets.',
+    category: 'education',
+  },
   {
     id: 1,
     title: 'Mini MBA, ',
@@ -314,48 +323,24 @@ export const cv = [
   },
   {
     id: 5,
-    title: ' Lead Consultant',
+    title: 'Lead Consultant',
     subtitle: 'Issachar Concepts International, Houston Texas',
     date: '2021 till present',
     description:
-      'Lead a team of Earth Scientists, Data Scientists, Machine Learning experts, and GIS specialists in building readily implementable Wellsite services using AI solutions for the oil and gas industry. ',
-    category: 'experience',
+      'Lead a team of Earth Scientists, Data Scientists, Machine Learning experts, and GIS specialists in building readily implementable AI solutions.',
+      category: 'experience'
   },
   {
     id: 6,
-    title: 'Consultant',
+    title: 'Chevron Corporation',
     subtitle: 'Chevron Corporation',
     date: '08/2001 - 09/2021',
     description:
-      ' Domain Expert and Key Participant in Shale Picking Automation using Machine Learning.',
+      ' *Stress &amp; Wellbore Stability Modeler, 09/2019 - 09/2021, Offshore/Deepwater Wellsite Geologist Lead, 10/2013 - 09/2019,  Wellsite Geologist/Log Analyst (Consultant), 08/2001 - 09/2013 ',
+      
     category: 'experience',
   },
-  {
-    id: 7,
-    title: 'Consultant',
-    subtitle: 'Stress & Wellbore Stability Modeler',
-    date: '2019 - 2021',
-    description:
-      'Provided technical support and inputs for all wells (Pre &Post drilling engagements)',
-    category: 'experience',
-  },
-  {
-    id: 8,
-    title: 'Consultant',
-    subtitle: 'Offshore/Deepwater Wellsite Geologist Lead',
-    date: '2013 - 2019',
-    description:
-      'Provided technical support and inputs for all wells (Pre &Post drilling engagements)',
-    category: 'experience',
-  },
-  {
-    id: 9,
-    title: 'Consultant',
-    subtitle: 'Wellsite Geologist/Log Analyst (Consultant), 08/2001 - 09/2013',
-    date: '2013 - 2019',
-    description: '',
-    category: 'experience',
-  },
+  
 ];
 
 export const testimonials = [
