@@ -100,7 +100,7 @@ export const skills = [
   {
     id: 1,
     name: 'Python programming and Data analysis ',
-    percentage: 85,
+    percentage: 70,
     description:
       'The ability to programme efficiently and accurately manipulate large datasets with Python',
   },
@@ -115,14 +115,14 @@ export const skills = [
   {
     id: 3,
     name: 'Data Visualization',
-    percentage: 90,
+    percentage: 80,
     description:
       'ability to create graphical representations of data to facilitate understanding and communication of insights',
   },
   {
     id: 4,
     name: 'Machine learning',
-    percentage: 75,
+    percentage: 70,
     description:
       'ability to designe, implemente, and evaluate models that can learn from data to make predictions or decisions.',
   },
@@ -134,19 +134,10 @@ export const skills = [
     description:
       "I have a proven track record of managing complex projects from start to finish, ensuring they are completed on time, within budget, and to the satisfaction of all stakeholders. I have experience using various project management methodologies, including Agile, Waterfall, and Scrum.",
   },
-
-  {
-    id: 6,
-    name: 'Change Management ',
-    percentage: 60,
-    description:
-      'Data analysts should be proficient in at least one programming language, such as Python or R, to effectively manipulate, analyze, and visualize data',
-  },
-
   {
     id: 7,
     name: 'Digital Transformation',
-    percentage: 90,
+    percentage: 75,
     description:
       "I specialize in guiding businesses through digital and agile transformations, product development, and change management. My services are tailored to meet each client's unique goals, helping them leverage technology to streamline operations, improve customer experiences, and manage change effectively. With my strategic guidance and technical support, businesses can become more agile, customer-centric, and competitive while achieving measurable growth and success.",
   },
@@ -160,31 +151,17 @@ export const skills = [
   {
     id: 6,
     name: 'Oil and Gas Consultancy',
-    percentage: 60,
+    percentage: 85,
     description:
     "With over 20 years of experience in Oil and Gas, I can readily provide domain expertise on Log Quality Assurance (Mudlog +MWD +Wireline), Data aggregation and Normalization (Remove Silos), Data Integration, Data Security, Subsurface data analytics.  ",
   },
   {
     id: 9,
     name: 'Manpower Development and training',
-    percentage: 60,
+    percentage: 80,
     description:
-      'I have curated a couple of in person Training courses that showcase the application of Data Science and Machine learning in the Oil and Gas industry.',
+      "I have curated a couple of in person Training courses that showcase the application of Data Science and Machine learning in the Oil and Gas industry.",
   },
-  {
-    id: 10,
-    name: 'Product Development',
-    percentage: 60,
-    description:
-    "I have experience in both hardware and software product development.Notable examples includes DSN's SpotOn App and Bytehub's CloudX Microcontroller.",
-  },
-  {
-    id: 12,
-    name: 'Model Development',
-    percentage: 70,
-    description:
-      'I am skilled in creating and implementing various models, including financial models, statistical models, and predictive models. I use a data-driven approach to modeling and leverage advanced techniques such as machine learning and artificial intelligence to create accurate and reliable models.',
-  }
 ];
 
 export const projects = [
