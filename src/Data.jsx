@@ -176,7 +176,7 @@ export const skills = [
     name: 'Product Development',
     percentage: 60,
     description:
-      'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
+    "I have experience in both hardware and software product development.Notable examples includes DSN's SpotOn App and Bytehub's CloudX Microcontroller.",
   },
   {
     id: 12,

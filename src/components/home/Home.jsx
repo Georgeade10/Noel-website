@@ -52,10 +52,8 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-            Good Day, My name is Noel-I am the Lead Consultant and Founder of Issachar concepts Incorporated. Am available for any B2B Staff Augmentation projects.
-            With over 15 years of experience in leading engineering and technical teams. I and my team provide data-driven insights that help clients make better decisions, improve operational efficiency, and achieve their business goals. 
-            My team of experts are able to cut down analysis time and turn insights into action. I look forward to helping you achieve your business goals and objectives via staff augmentation.
-
+          Noel is a Data Scientist and Artificial Intelligence product owner. He currently supports multiple projects as an Executive product leader at Data science Network Nigeria. 
+          He has more than 20 years of experience of drawing insights from very large data sets as an Earth scientist, Stress modeler and Wellsite Geologist at Chevron corporation.
           </p>
 
           <div className='home__socials'>
