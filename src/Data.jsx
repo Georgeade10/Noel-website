@@ -132,7 +132,7 @@ export const skills = [
     name: ' Project Management   ',
     percentage: 70,
     description:
-      'I have a proven track record of managing complex projects from start to finish, ensuring they are completed on time, within budget, and to the satisfaction of all stakeholders. I have experience using various project management methodologies, including Agile, Waterfall, and Scrum.',
+      "I have a proven track record of managing complex projects from start to finish, ensuring they are completed on time, within budget, and to the satisfaction of all stakeholders. I have experience using various project management methodologies, including Agile, Waterfall, and Scrum.",
   },
 
   {
@@ -148,7 +148,7 @@ export const skills = [
     name: 'Digital Transformation',
     percentage: 90,
     description:
-      "As a consultant, I specialize in helping businesses achieve digital transformation, agile transformation, product development, and change management. With my expertise, I can guide your organization throught the process of leveraging technology to streamline operations, increase efficiency, and improve customer experiences while also helping you manage change effectively. Whether you are looking to adopt agile methodologies to improve your development processes, or you want to overhaul your entire businesses model to embrace digital transformation, I can provide the strategic guidance and technical support you need to succeed. My services are tailored to meet the unique needs and goals of each success. With my help, your business can become more agile, more customer-centric, and better positioned to compete in today's rapidly evolving market while effectively managing any changes that come your way. ",
+      "I specialize in guiding businesses through digital and agile transformations, product development, and change management. My services are tailored to meet each client's unique goals, helping them leverage technology to streamline operations, improve customer experiences, and manage change effectively. With my strategic guidance and technical support, businesses can become more agile, customer-centric, and competitive while achieving measurable growth and success.",
   },
   {
     id: 8,
