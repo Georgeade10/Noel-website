@@ -99,7 +99,7 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: 'Python programming and Data analysis ',
+    name: 'Python programming & Data analysis ',
     percentage: 70,
     description:
       'The ability to programme efficiently and accurately manipulate large datasets with Python',
@@ -146,7 +146,7 @@ export const skills = [
     name: 'Business Intelligence ',
     percentage: 80,
     description:
-      'Using SQL queries and Tableau, I can provide answers to business problems and create visualizations to help you take actionable insights from your business data sets.',
+      "Using SQL queries and Tableau, I can provide answers to business problems and create visualizations to help you take actionable insights from your business data sets.",
   },
   {
     id: 6,
