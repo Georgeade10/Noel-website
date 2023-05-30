@@ -52,10 +52,9 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-          Noel is a Data Scientist and Artificial Intelligence product owner. He currently supports multiple projects as an Executive product leader at Data science Network Nigeria. 
-          He has more than 20 years of experience of drawing insights from very large data sets as an Earth scientist, Stress modeler and Wellsite Geologist at Chevron corporation.
-          </p>
-
+          Noel is a Data Scientist and Artificial Intelligence product owner. He currently supports multiple projects as an Executive product leader at Data Science Network Nigeria. 
+          He has more than 20 years of experience drawing insights from very large data sets as an Earth scientist, Stress modeler, and Wellsite Geologist at Chevron Corporation.
+           </p>
           <div className='home__socials'>
             <a
               href='https://www.linkedin.com/in/noelabdullahi/'
