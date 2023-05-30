@@ -151,7 +151,7 @@ export const skills = [
   {
     id: 6,
     name: 'Oil and Gas Consultancy',
-    percentage: 85,
+    percentage: 90,
     description:
     "With over 20 years of experience in Oil and Gas, I can readily provide domain expertise on Log Quality Assurance (Mudlog +MWD +Wireline), Data aggregation and Normalization (Remove Silos), Data Integration, Data Security, Subsurface data analytics.  ",
   },
