@@ -293,8 +293,8 @@ export const cv = [
   },
   {
     id: 5,
-    title: 'Geospatial AI Consultant',
-    subtitle: 'Data Science Nigeria (DSNai)',
+    title: 'Data Science Nigeria (DSNai)',
+    subtitle: 'Lead Consultant',
     date: '2021 till present',
     description:
       "Experienced leader of cross-functional teams consisting of Earth Scientists, Data Scientists, and Machine Learning Engineers in developing and implementing digital solutions for the Oil and Gas industry using artificial intelligence. Provides business leadership support for Bill and Melinda Gates' crowdsourcing project, Eko-360, and SpotOn product development. Successfully leverages expertise in data analytics, AI, and business strategy to drive innovation and achieve business objectives.",
@@ -303,7 +303,7 @@ export const cv = [
   {
     id: 6,
     title: 'Chevron Corporation',
-    subtitle: 'Chevron Corporation',
+    subtitle: 'Earth Scientist',
     date: '08/2001 - 09/2021',
     description:
       "15+ years in various roles as wellsite geologist, log analyst, and contract administrator gathering, evaluating, and deriving insights from big data, which resulted in a $24 million cost savings in GNPT for the 2016/2017 Cheetah drilling campaign.",
@@ -329,7 +329,7 @@ export const testimonials = [
     name: 'Sophie Riding',
     author: '',
     description:
-      'During his time as a student in the Masterschool Data Analytics program, Noel demonstrated leaderships skills when mentoring his fellow peers. He provided support to his group throughout the rigorous program and was always provided constructive insights....."',
+      'During his time as a student in the Masterschool Data Analytics program, Noel demonstrated leaderships skills when mentoring his fellow peers. He provided support to his group throughout the rigorous program and always provided constructive insights....."',
     href: 'https://www.linkedin.com/in/sophie-riding/',
   },
   {
