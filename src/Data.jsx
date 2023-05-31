@@ -251,7 +251,7 @@ export const cv = [
   
   {
     id: 1,
-    title: 'Mastershool Data Anlysis Program, ',
+    title: 'Mastershool Data Analytics Program, ',
     subtitle: 'Masterschool New York, USA',
     date: '2022',
     description: 'I have acquired a diverse range of skills and techniques that equip me with the ability to utilize data for informed decision-making and problem-solving, along with practical experience in utilizing data analysis software including Python, and SQL to manipulate and analyze large datasets.',
@@ -356,7 +356,7 @@ export const testimonials = [
     name: 'Ogunlolu Daniel',
     author: 'CEO, Ace Embedded',
     description:
-      "Mr. Noel's exceptional qualities as a boss, mentor, and friend made a lasting impact on me. He went above and beyond the typical responsibilities of a boss and truly cared about my development. From day one, he welcomed me with open arms and treated me like family. He consistently showed his genuine interest in my career progression and took the time to understand my goals and aspirations.",
+      "I like  Mr. Noel's inclusive leadership style. He valued my opinions and encouraged me to share my ideas openly. He recognized the importance of collaboration and trusted me to contribute to the company's vision. This level of trust and autonomy fostered an environment where creativity thrived, enabling me to explore new ideas and push boundaries.",
     href: 'https://www.linkedin.com/in/daniel-ogunlolu-falcon/',
   },
 ];
