@@ -306,7 +306,7 @@ export const cv = [
     subtitle: 'Chevron Corporation',
     date: '08/2001 - 09/2021',
     description:
-      ' *Stress &amp; Wellbore Stability Modeler, Offshore/Deepwater Wellsite Geologist Lead,   Wellsite Geologist/Log Analyst. ',
+      "15+ years in various roles as wellsite geologist, log analyst, and contract administrator gathering, evaluating, and deriving insights from big data, which resulted in a $24 million cost savings in GNPT for the 2016/2017 Cheetah drilling campaign.",
       
     category: 'experience',
   },
