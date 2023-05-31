@@ -151,7 +151,7 @@ export const skills = [
   {
     id: 6,
     name: 'Oil and Gas Consultancy',
-    percentage: 90,
+    percentage: 85,
     description:
     "With over 20 years of experience in Oil and Gas, I can readily provide domain expertise on Log Quality Assurance (Mudlog +MWD +Wireline), Data aggregation and Normalization (Remove Silos), Data Integration, Data Security, Subsurface data analytics.  ",
   },
@@ -293,11 +293,11 @@ export const cv = [
   },
   {
     id: 5,
-    title: 'Lead Consultant',
-    subtitle: 'Issachar Concepts International, Houston Texas',
+    title: 'Geospatial AI Consultant',
+    subtitle: 'Data Science Nigeria (DSNai)',
     date: '2021 till present',
     description:
-      'Lead a team of Earth Scientists, Data Scientists, Machine Learning experts, and GIS specialists in building readily implementable AI solutions.',
+      "Experienced leader of cross-functional teams consisting of Earth Scientists, Data Scientists, and Machine Learning Engineers in developing and implementing digital solutions for the Oil and Gas industry using artificial intelligence. Provides business leadership support for Bill and Melinda Gates' crowdsourcing project, Eko-360, and SpotOn product development. Successfully leverages expertise in data analytics, AI, and business strategy to drive innovation and achieve business objectives.",
       category: 'experience'
   },
   {
@@ -349,5 +349,14 @@ export const testimonials = [
     description:
       'I have known Noel for over 20 years. Our paths crossed when we both worked for Chevron corporation. Noel’s passion for growth has put him on the path of continuous learning.His brilliance came to bare when he founded one of the most impactful  career mentoring programmes,  which has enabled many young African professionals to grow.',
     href: 'https://www.linkedin.com/in/ogboawokeogbo/',
+  },
+  {
+    id: 5,
+    img: Testimonial5,
+    name: 'Ogunlolu Daniel',
+    author: 'CEO, Ace Embedded',
+    description:
+      "Mr. Noel's exceptional qualities as a boss, mentor, and friend made a lasting impact on me. He went above and beyond the typical responsibilities of a boss and truly cared about my development. From day one, he welcomed me with open arms and treated me like family. He consistently showed his genuine interest in my career progression and took the time to understand my goals and aspirations.",
+    href: 'https://www.linkedin.com/in/daniel-ogunlolu-falcon/',
   },
 ];
