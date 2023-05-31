@@ -278,7 +278,7 @@ export const cv = [
   {
     id: 3,
     title: 'Msc Geophysics',
-    subtitle: 'University Lagos, Lagos, Nigeria',
+    subtitle: 'University of Lagos, Lagos, Nigeria',
     date: '2012',
     description: '',
     category: 'education',
