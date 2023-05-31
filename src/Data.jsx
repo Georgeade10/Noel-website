@@ -254,7 +254,7 @@ export const cv = [
     title: 'Mastershool Data Anlysis Program, ',
     subtitle: 'Masterschool New York, USA',
     date: '2022',
-    description: 'I have acquired a diverse range of skills and techniques that equip me with the ability to utilize data for informed decision-making and problem-solving, along with practical experience in utilizing data analysis software including R, Python, and SQL to manipulate and analyze large datasets.',
+    description: 'I have acquired a diverse range of skills and techniques that equip me with the ability to utilize data for informed decision-making and problem-solving, along with practical experience in utilizing data analysis software including Python, and SQL to manipulate and analyze large datasets.',
     category: 'education',
   },
   {
