@@ -110,21 +110,21 @@ export const skills = [
     name: 'SQL programming:',
     percentage: 75,
     description:
-      'ability to query databases to extract, manipulate, and analyze data using SQL commands, functions, and operators.',
+      'Ability to query databases to extract, manipulate, and analyze data using SQL commands, functions, and operators.',
   },
   {
     id: 3,
     name: 'Data Visualization',
     percentage: 80,
     description:
-      'ability to create graphical representations of data to facilitate understanding and communication of insights',
+      'Ability to create graphical representations of data to facilitate understanding and communication of insights',
   },
   {
     id: 4,
     name: 'Machine learning',
     percentage: 70,
     description:
-      'ability to designe, implemente, and evaluate models that can learn from data to make predictions or decisions.',
+      'Ability to designe, implemente, and evaluate models that can learn from data to make predictions or decisions.',
   },
 
   {
@@ -132,14 +132,14 @@ export const skills = [
     name: ' Project Management   ',
     percentage: 70,
     description:
-      "I have a proven track record of managing complex projects from start to finish, ensuring they are completed on time, within budget, and to the satisfaction of all stakeholders. I have experience using various project management methodologies, including Agile, Waterfall, and Scrum.",
+      "Proven a track record of managing complex projects from start to finish, ensuring they are completed on time, within budget, and to the satisfaction of all stakeholders. I have experience using various project management methodologies, including Agile, Waterfall, and Scrum.",
   },
   {
     id: 7,
     name: 'Digital Transformation',
     percentage: 75,
     description:
-      "I specialize in guiding businesses through digital and agile transformations, product development, and change management. My services are tailored to meet each client's unique goals, helping them leverage technology to streamline operations, improve customer experiences, and manage change effectively. With my strategic guidance and technical support, businesses can become more agile, customer-centric, and competitive while achieving measurable growth and success.",
+      "Specialized in guiding businesses through digital and agile transformations, product development, and change management. My services are tailored to meet each client's unique goals, helping them leverage technology to streamline operations, improve customer experiences, and manage change effectively. With my strategic guidance and technical support, businesses can become more agile, customer-centric, and competitive while achieving measurable growth and success.",
   },
   {
     id: 8,
@@ -160,7 +160,7 @@ export const skills = [
     name: 'Manpower Development and training',
     percentage: 80,
     description:
-      "I have curated a couple of in person Training courses that showcase the application of Data Science and Machine learning in the Oil and Gas industry.",
+      "Curated a couple of in person Training courses that showcase the application of Data Science and Machine learning in the Oil and Gas industry.",
   },
 ];
 
