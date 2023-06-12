@@ -269,7 +269,7 @@ export const cv = [
   {
     id: 2,
     title: 'Competing in the Age of AI, Executive Business Course,',
-    subtitle: ', Harvard Business School, Boston, MA, United States',
+    subtitle: 'Harvard Business School, Boston, MA, United States',
     date: '2021',
     description: '',
     category: 'education',
