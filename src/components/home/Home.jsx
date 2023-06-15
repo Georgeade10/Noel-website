@@ -65,7 +65,7 @@ const Home = () => {
             </a>
 
             <a
-              href='https://github.com/de-issachars'
+              href='https://github.com/noea599'
               target='_blank'
               className='home__social-link'
             >
